@@ -1,0 +1,22 @@
+{
+  "name": "reanimated-bottom-tab",
+  "version": "1.0.0",
+  "description": "Bottom Tabs for react-navigation using reanimated",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "origin https://github.com/sa8ab/reanimated-bottom-tabs.git"
+  },
+  "keywords": [
+    "reanimated",
+    "bottom-tabs",
+    "react-navigation",
+    "custom-tabs",
+    "custom-bottom-tabs"
+  ],
+  "author": "sa8ab",
+  "license": "ISC"
+}
