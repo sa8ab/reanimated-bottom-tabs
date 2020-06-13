@@ -18,5 +18,8 @@
     "custom-bottom-tabs"
   ],
   "author": "sa8ab",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.59.0"
+  }
 }
