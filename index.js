@@ -5,7 +5,7 @@ import Animated, {
   useSharedValue,
   withSpring,
 } from "react-native-reanimated";
-import TabItem from "./TabItem";
+import TabItem from "./components/TabItem";
 
 const { width } = Dimensions.get("window");
 

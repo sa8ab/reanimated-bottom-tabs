@@ -1,6 +1,6 @@
 {
-  "name": "reanimated-bottom-tab",
-  "version": "1.0.0",
+  "name": "reanimated-bottom-tabs",
+  "version": "1.0.1",
   "description": "Bottom Tabs for react-navigation using reanimated",
   "main": "index.js",
   "scripts": {
