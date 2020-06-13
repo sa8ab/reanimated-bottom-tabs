@@ -47,7 +47,7 @@ const TabNavigator = () => (
 
 # props
 
-- **activeColor**: color for the text | defaults to `white`,
+- **activeColor**: color for the text | defaults to `'white'`,
 - **margin**: the margin for the bottomTabBar from corners, applies for top, left, right, bottom | defaults to `8`,
 - **moverPadding**: padding for the container of the red box in demo | defaults to `5`,
 - **moverStyle**: style object for the moving element | defaults to
